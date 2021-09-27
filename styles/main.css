@@ -77,7 +77,8 @@
   background-color: #717171;
 }
 
-/* Sliding animation */
+/* Sliding animation
+Reference: https://stackoverflow.com/questions/16989585/css-3-slide-in-from-left-transition  */
 .slideshow-container {
   position: relative;
   overflow: hidden;
